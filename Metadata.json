@@ -1,0 +1,11 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 8114,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/Migrate-automation-account-assets-from-one-region-to-another-PwshWorkflow/main/AccountAssetMigrationScriptOneRegionToAnotherPwshWorkflow.ps1",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "RunbookKindString": "PowerShellWorkflow",
+    "Title": "Migrate Automation account assets from one region to another",
+    "Summary": "This PowerShell script is for migration of Automation account assets from the account in primary region to the account in secondary region. This script migrates only Runbooks, Modules, Connections, Credentials, Certificates and Variables. ",
+    "UserTags": "Powershell Workflow, Azure Automation"
+}
