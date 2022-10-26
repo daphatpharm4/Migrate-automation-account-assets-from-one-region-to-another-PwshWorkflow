@@ -5,7 +5,7 @@
     "IsFederated": true,
     "IsWorkflow": true,
     "RunbookKindString": "PowerShellWorkflow",
-    "Title": "Migrate Automation account assets from one region to another",
+    "Title": "Migrate Automation account assets from one region to another PowershellWorkflow",
     "Summary": "This PowerShell script is for migration of Automation account assets from the account in primary region to the account in secondary region. This script migrates only Runbooks, Modules, Connections, Credentials, Certificates and Variables. ",
     "UserTags": "Powershell Workflow, Azure Automation"
 }
