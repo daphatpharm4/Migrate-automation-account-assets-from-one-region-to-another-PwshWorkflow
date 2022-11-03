@@ -32,8 +32,5 @@ This PowerShell script is for migration of Automation account assets from the ac
 		1. SourceAutomationAccountResourceId
 		2. DestinationAutomationAccountResourceId
 		3. LocationDestinationAccount
-		4. Type[] 	
-	
-
-		3. Type[] 	
+		4. Type[] 
 	
