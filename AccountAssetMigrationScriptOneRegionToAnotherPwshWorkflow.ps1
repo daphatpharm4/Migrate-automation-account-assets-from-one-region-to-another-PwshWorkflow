@@ -49,7 +49,7 @@ workflow Migration{
 		[Parameter(Mandatory=$False)][string]$DestinationSubscriptionId,
 		[Parameter(Mandatory=$False)][string]$SourceAutomationAccountResourceId,
 		[Parameter(Mandatory=$False)][string]$DestinationAutomationAccountResourceId,
-		[Parameter(Mandatory=$True)][string]$LocationDestinationAccount
+		[Parameter(Mandatory=$True)][string]$LocationDestinationAccount,
 		[Parameter(Mandatory=$True)][string[]]$Types	
 	)
 
